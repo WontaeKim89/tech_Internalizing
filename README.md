@@ -1,2 +1,2 @@
-# tech_Internalizing
-tech Internalizing Repository
+# Tech Internalizing
+학습기록...
